@@ -84,7 +84,7 @@ waypoints.txt saved to desktop
 - Run **setup.bat** to configure Chromedriver automatically.
 - Ensure you have the correct **chromedriver path** set in:
   ```
- %AppData%\Roaming\Local\DiamondFinder\config.txt
+  %AppData%\Roaming\Local\DiamondFinder\config.txt
   ```
 
 ### Chromedriver Issues
